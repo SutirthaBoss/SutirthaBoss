@@ -60,6 +60,7 @@ I am **Sutirtha Chakraborty**, a passionate researcher and engineer devoted to a
 ### 📊 GitHub Metrics
 <div align="center">
   <!-- GitHub Stats -->
+  
   ![Sutirtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SutirthaChakraborty&show_icons=true&theme=prussian&count_private=true&text_color=ffffff&title_color=fe0278)
 
   <!-- Top Languages -->
