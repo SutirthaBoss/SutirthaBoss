@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRobnh2dzh5MW84ODdsZzliZThsc2wwZ29lcXg0ZGF5YXZ3d3dtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qvp6Z2fidQR34IcwQ5/giphy.gif" alt="Sci-Fi Animation" width="100%"/>
+  <img src="https://giphy.com/gifs/purple-visuals-vjloop-Qvp6Z2fidQR34IcwQ5" alt="Sci-Fi Animation" width="100%"/>
 </p>
 
 ### Greetings, Earthlings! 👋
