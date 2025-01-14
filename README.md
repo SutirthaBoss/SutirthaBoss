@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/purple-visuals-vjloop-Qvp6Z2fidQR34IcwQ5" alt="Sci-Fi Animation" width="100%"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRobnh2dzh5MW84ODdsZzliZThsc2wwZ29lcXg0ZGF5YXZ3d3dtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qvp6Z2fidQR34IcwQ5/giphy.gif" alt="Sci-Fi Animation" width="100%"/>
 </p>
-
 ### Greetings, Earthlings! 👋
 
 I am **Sutirtha Chakraborty**, a passionate researcher and engineer devoted to advancing science and technology. After completing my PhD at Maynooth University in 2025, I embarked on a journey as a **Senior Research Engineer at Xperi**. My work focuses on cutting-edge technologies in audio and vision, multimodal data, and deep learning models. I strive for excellence and innovation, driven by an insatiable curiosity and a commitment to contributing to the field.
