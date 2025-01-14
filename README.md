@@ -53,7 +53,7 @@ I am **Sutirtha Chakraborty**, a passionate researcher and engineer devoted to a
 ### 🎶 Creative Ventures
 - **YouTube Channel:** [Sutirtha Chakraborty](https://www.youtube.com/channel/UCjtiB0zzZPdLhoCshmswL-g)
   - *VocaTune: The Future of Touchless Music Creation with Voice and Gestures* [Watch Now](https://www.youtube.com/watch?v=Tb0a3UpUKTE)
-  - *Industry Speaker Session | Deep Learning: Journey from Perceptron to GPT-4* [Watch Now](https://www.youtube.com/watch?v=lLuUla4-83A)
+  - *Music Composition* [Watch Now](https://www.youtube.com/playlist?list=PLOCmxDAAre7h0nmm8_zUvlefKDPZ0wjjM)
 
 ---
 
@@ -78,18 +78,5 @@ I am **Sutirtha Chakraborty**, a passionate researcher and engineer devoted to a
   ![Visitor Count](https://profile-counter.glitch.me/SutirthaChakraborty/count.svg)
 </div>
 
----
 
-### 🌌 Sci-Fi Vibes
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Space Travel" width="200"/>
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Galactic" width="200"/>
-</div>
 
-```ascii
-          .          .
-       .                .
-  .   .    .     .      .
-       .           .          *
-    .         .                 .
-*          
